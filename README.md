@@ -31,7 +31,3 @@ Just insert into  `<head>`
 ```html
 <script type="text/javascript" src="js/password.js"></script>
 ```
-
-## Legal
-Copyright (c) 2016： [windmill0503](https://github.com/windmill0503)
-Show it on Code Studio [this article](http://www.nousbuild.org/codeu/add-web-passwprd/)
